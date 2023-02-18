@@ -12,7 +12,7 @@ This project is to configure starter code to create a working Express.js API to 
 
 ## Depolyed Viewing
 
-Video link: 
+Video link: https://drive.google.com/file/d/1l0PMyqG4gZpSUWSPvUTUocc2pidAq67l/view
 
 GitHub Link: https://github.com/Kawaikimono/Lesson-13-E-Commerce-Back-End.git
 
