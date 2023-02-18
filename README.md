@@ -4,6 +4,8 @@
 ```
 This project is to configure starter code to create a working Express.js API to use Sequelize to interact with a MySQL database.
 ```
+## Installation Instructions
+Make sure to put "npm i" in the command line to install the dependencies. Also a .env file is required for DB_NAME='ecommerce_db', your DB_USER info and DB_PASSWORD info for mysql.
 
 ## Requirement Completed:
 - Utilize Sequelize database and link to server routes
